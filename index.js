@@ -1,1 +1,3 @@
-const sum = (a, b) => a + b;
+import { divide } from "./divide.js"
+
+console.log(divide(2, 3));
